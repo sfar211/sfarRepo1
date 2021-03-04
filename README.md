@@ -1,14 +1,11 @@
 # sfarRepo1 (Sania Farrukh)
 
-## This is my repo 
+## This is my first repo
 
 <!-- thanks for playing along -->
 
 <-- This is for branch testing -->
 <!-- This is for branch testing -->
 
-<-- This is my second branch test -->
-<!-- This is my second branch test -->
+<-- 04-03-2021 - Added my assignment to the repo. -->
 
-<--hey, did you notice that if you add an exclamation point in the right place it turns these into comments-->
-<!--hey, did you notice that if you add an exclamation point in the right place it turns these into comments-->
